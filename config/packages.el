@@ -45,3 +45,6 @@
 
 ;; JavaScript
 (load "config/packages/javascript.el")
+
+;; Scala
+(load "config/packages/scala.el")
