@@ -48,3 +48,7 @@
 
 ;; Scala
 (load "config/packages/scala.el")
+
+;; Io
+(load "config/packages/io_lang.el")
+
